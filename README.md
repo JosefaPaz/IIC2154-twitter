@@ -2,8 +2,8 @@
 
 For running this app locally you need to git clone this repository and then create and open an enviroment:
 
-```python3 -m venv env
-
+```
+python3 -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
 ```
 
